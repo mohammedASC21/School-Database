@@ -1,4 +1,4 @@
-#School Database Management System (SDMS)
+School Database Management System (SDMS)
 
 Project Overview
 The School Database Management System (SDMS) is a robust Java application tailored for educational institutions to manage and organize their crucial operational data. It enables the seamless handling of student profiles, faculty records, course details, and staff assignments. This system aims to improve the administrative efficiency of schools and provide easy access to educational resources.
